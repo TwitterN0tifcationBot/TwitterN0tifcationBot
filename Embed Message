@@ -1,0 +1,3 @@
+BotToken = MTIyMDgxMTM2NDM3ODA4MzQ2Mg.GreBIU.uM4x0SevZ80k44oPD4xPrUnFcwfg0WmRwuge5c
+if User  typed "Verification" then
+SendMessage.Message = "Failed to Verify u! or u dont have permission to use this command!"
