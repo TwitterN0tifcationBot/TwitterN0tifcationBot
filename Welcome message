@@ -1,0 +1,3 @@
+Welcome.Message = "Welcome to {Servername}{Username}🎉"
+EmbedTitle = "Welcome to {Servername}!"
+EmbedDescription = "{UserProfile}"
