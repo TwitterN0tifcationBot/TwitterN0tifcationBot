@@ -1,0 +1,4 @@
+botstatus = online
+if botstatus = offline then
+BanBot
+end
