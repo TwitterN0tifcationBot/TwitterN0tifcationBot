@@ -1,0 +1,7 @@
+local CommandPrefix = /
+local Command = "Post"
+if user.Sends Post then
+Message = ""
+EmbedTitle = "U cannot Post anything!"
+RoleReqeured = @Everyone
+end
